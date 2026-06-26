@@ -1,0 +1,4 @@
+{"iter":14,"dim":"beir-nfcorpus","config":"bm25_weight=0.0","ndcg10":0.35171471732484655,"delta":0.00281471732484655,"delta_pct":0.81,"action":"advance","wall_sec":180}
+{"iter":15,"dim":"beir-nfcorpus","ndcg10":0.3517,"delta":0.0,"action":"noImprovement"}
+{"iter":16,"dim":"beir-nfcorpus","ndcg10":0.2961,"delta":-0.0556,"action":"noImprovement"}
+{"iter":17,"ts":"2026-06-26T21:49:37.378Z","dimension":"beir-scifact","change":"validate-stacked-iters-1-14-on-scifact","measured":{"ndcg10":0.5765772269258473,"baseline":0.5694},"deltaScore":0.0071772269258473,"action":"measured-improved","commit":""}
