@@ -1,6 +1,6 @@
 ---
 name: vector-engineer
-description: Vector operations specialist using npx ruvector@0.2.25 — HNSW indexing, adaptive LoRA embeddings, code-graph clustering, hooks routing, brain/SONA, 103 MCP tools
+description: Vector operations specialist using npx ruvector@0.2.25 — HNSW indexing, adaptive LoRA embeddings, code-graph clustering, hooks routing, brain/SONA, 103 MCP tools. Use when the task involves generating/storing embeddings, semantic vector search, RVF cognitive containers, GNN clustering, or hyperbolic (Poincare) hierarchical embeddings.
 model: sonnet
 ---
 
